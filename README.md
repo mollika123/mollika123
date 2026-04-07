@@ -27,3 +27,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+a+Front-end+Developer.;I+build+clean+%26+modern+UIs.;Check+out+my+repositories!" alt="Typing SVG" />
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Welcome+to+my+Profile!;I+am+a+Front-end+Developer;I+love+building+Web+Apps" alt="Typing SVG" />
+</div>
