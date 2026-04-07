@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mollika123&label=Profile%20views&color=0e75b6&style=flat" alt="mollika123" /> </p>
 
-🔭 I’m currently working on **Book-vibe**
 
- 🌱 I’m currently learning **Next.js**
-
- 📫 How to reach me **aktermollika49@gmail.com**
-
- ⚡ Fun fact **I think i am funny**
 
  
 
