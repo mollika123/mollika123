@@ -11,6 +11,12 @@
 
 - ⚡ Fun fact **I think i am funny**
 
+- 
+
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub" width="500" alt="Front-end Coding Animation" />
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/mollika akter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mollika akter" height="30" width="40" /></a>
