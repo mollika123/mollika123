@@ -15,7 +15,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub" width="500" alt="Front-end Coding Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnd6bm5idHpxZ2Z4bmZ6bm5idHpxZ2Z4bmZ6bm5idHpxZ2Z4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Frontend Dev Animation">
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
