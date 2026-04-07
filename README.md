@@ -34,5 +34,5 @@
 <br>
 <br>
 <br>
- GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
 <img align:center src="https://streak-stats.demolab.com?user=mollika123&theme=dark&hide_border=true" alt="mollika123's GitHub Stats" />
