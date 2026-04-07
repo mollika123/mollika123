@@ -34,5 +34,5 @@
 <br>
 <br>
 <br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mollika123" alt="GitHub Streak" /></a>
 <img align:center src="https://streak-stats.demolab.com?user=mollika123&theme=dark&hide_border=true" alt="mollika123's GitHub Stats" />
