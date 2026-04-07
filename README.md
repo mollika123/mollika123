@@ -34,4 +34,6 @@
 <br>
 <br>
 <br>
+<div align="center">
 <img align:center src="https://streak-stats.demolab.com?user=mollika123&theme=dark&hide_border=true" alt="mollika123's GitHub Stats" />
+</div>
