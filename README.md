@@ -31,6 +31,9 @@
 <br>
 <br>
 <br>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mollika123&theme=dracula&hide_border=true&area=true" />
+</p>
 <br>
 <br>
 <div align="center">
