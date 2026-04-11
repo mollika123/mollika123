@@ -30,6 +30,20 @@
 
 <br>
 <br>
+<h1 align='center'>Who I'am</h1>
+╔══════════════════════════════════════════════════════════════╗
+║               SYSTEM PROFILE — ISHFAK MAHBUB SAMIN           ║
+╠══════════════════════════════════════════════════════════════╣
+║  name        :  Mollika Akter                         ║
+║  role        :  Full Stack Developer                         ║
+║  passion     : Competitive Programming            ║
+║  location    :  Dhaka, Bangladesh  🇧🇩                        ║
+║  contact     :  aktermollika49@gmail.com  📬                  ║
+╠══════════════════════════════════════════════════════════════╣
+║  status      :  Always Learning & Exploring  🚀              ║
+║  available   :  Open to Internships & Collaborations  ✅      ║
+║  motto       :  "Code today. Conquer tomorrow."              ║
+╚══════════════════════════════════════════════════════════════╝
 <br>
 <p align="center">
   <h1 align='center'>🔥My activity graph</h1>
