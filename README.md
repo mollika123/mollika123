@@ -32,6 +32,7 @@
 <br>
 <br>
 <p align="center">
+  <h1>🔥My activity graph</h1>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mollika123&theme=dracula&hide_border=true&area=true" />
 </p>
 <br>
