@@ -37,4 +37,4 @@
  <h1>🔥Current Streak</h1>
 <img align:center src="https://streak-stats.demolab.com?user=mollika123&theme=dark&hide_border=true" alt="mollika123's GitHub Stats" />
 </div>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=mollika123&theme=dracula)
