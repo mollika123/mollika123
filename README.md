@@ -37,4 +37,4 @@
  <h1>🔥Current Streak</h1>
 <img align:center src="https://streak-stats.demolab.com?user=mollika123&theme=dark&hide_border=true" alt="mollika123's GitHub Stats" />
 </div>
-https://github-readme-activity-graph.vercel.app/graph?username=mollika123
+<img srec='https://github-readme-activity-graph.vercel.app/graph?username=mollika123'>
