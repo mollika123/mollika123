@@ -32,7 +32,7 @@
 <br>
 <br>
 <p align="center">
-  <h1>🔥My activity graph</h1>
+  <h1 align='center'>🔥My activity graph</h1>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mollika123&theme=dracula&hide_border=true&area=true" />
 </p>
 <br>
@@ -41,4 +41,4 @@
  <h1>🔥Current Streak</h1>
 <img align:center src="https://streak-stats.demolab.com?user=mollika123&theme=dark&hide_border=true" alt="mollika123's GitHub Stats" />
 </div>
-![Graph](https://github-readme-activity-graph.vercel.app/graph?mollika123=mollika123&theme=dracula)
+
