@@ -108,42 +108,6 @@
 
 ---
 
-## 🏗️ Project Showcase
-
-<div align="center">
-
-### 🌟 [Project Name 1: E-commerce Frontend](repo-link) <!-- TODO: Replace with actual project -->
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mollika123&repo=e-commerce-frontend&theme=tokyonight)](repo-link)
-
-**Tech Stack:** Next.js • React • TypeScript • Tailwind CSS
-**Status:** 🚀 Production | ⭐ XX+ Stars | 🍴 YY+ Forks
-*A high-performance e-commerce platform frontend, featuring seamless navigation, product filtering, and a modern design.*
-
----
-
-### 🔥 [Project Name 2: Portfolio Website](repo-link) <!-- TODO: Replace with actual project -->
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mollika123&repo=my-portfolio&theme=tokyonight)](repo-link)
-
-**Tech Stack:** React • Styled Components • Vite
-**Status:** ✅ Complete | ⭐ ZZ+ Stars | 🍴 WW+ Forks
-*My personal portfolio site, showcasing my projects, skills, and professional journey with a clean, responsive layout.*
-
----
-
-### ⚡ [Project Name 3: Task Management App](repo-link) <!-- TODO: Replace with actual project -->
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mollika123&repo=task-manager-app&theme=tokyonight)](repo-link)
-
-**Tech Stack:** React • Redux • Firebase • Material-UI
-**Status:** 🚧 In Development | ⭐ AA+ Stars | 🍴 BB+ Forks
-*A collaborative task management application designed to boost productivity with real-time updates and user authentication.*
-
-</div>
-
----
-
 
 
 ## 📝 Latest Blog Posts
