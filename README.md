@@ -34,14 +34,16 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║               SYSTEM PROFILE — Mollika Akter                 ║
 ╠══════════════════════════════════════════════════════════════╣
-║  name        :  Mollika Akter                         
+║  name        :   Mollika Akter                               ║
 ║  role        :  Full Stack Developer                         ║
-║  passion     : Competitive Programming            
+║  passion     :  · Competitive Programming                    ║
+║  university  :  National University  🎓                     ║
 ║  location    :  Dhaka, Bangladesh  🇧🇩                        ║
-║  contact     :  aktermollika49@gmail.com  📬                 ║
+║  cf_handle   :  mollika123  [ Pupil 🟩 ]                     ║
+║  contact     : aktermollika49@gmail.com  📬                  ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  status      :  Always Learning & Exploring  🚀              ║
-║  available   :  Open to Internships & Collaborations  ✅     ║
+║  available   :  Open to Internships & Collaborations  ✅      ║
 ║  motto       :  "Code today. Conquer tomorrow."              ║
 ╚══════════════════════════════════════════════════════════════╝
 <br>
