@@ -10,18 +10,42 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+a+Front-end+Developer.;I+build+clean+%26+modern+UIs.;Check+out+my+repositories!" alt="Typing SVG" />
 </div>
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a>&nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="45" height="45"/></a>&nbsp;
-  <a href="https://daisyui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/saadeghi/daisyui/master/screenshots/logo.svg" alt="daisyui" width="45" height="45"/></a>&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/></a>&nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/></a>&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/></a>&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/></a>&nbsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/></a>&nbsp;
-  <a href="https://v2.vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://v2.vitejs.dev/logo.svg" alt="vite" width="45" height="45"/></a>
-</p>
+
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/><br>JavaScript
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/><br>React
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nextjs.org/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="45" height="45"/><br>Next.js
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://daisyui.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/saadeghi/daisyui/master/screenshots/logo.svg" alt="daisyui" width="45" height="45"/><br>daisyUI
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/><br>Tailwind
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://getbootstrap.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/><br>Bootstrap
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
