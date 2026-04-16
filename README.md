@@ -3,6 +3,7 @@
 
 
 
+
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RrNWlxMWZlZGl0eXJ0YnljcjF6YmN6dnM0ZDN1dHV1ZTN4ZTNkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkOBSvVYr/giphy.gif" width="400" alt="Woman Developer Coding">
 </div>
