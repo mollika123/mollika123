@@ -1,9 +1,7 @@
 <h1 align="center">👩‍💻 Hi, I'm Mollika Akter</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mollika123&label=Profile%20views&color=0e75b6&style=flat" alt="mollika123" />
-</p>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RrNWlxMWZlZGl0eXJ0YnljcjF6YmN6dnM0ZDN1dHV1ZTN4ZTNkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkOBSvVYr/giphy.gif" width="400" alt="Woman Developer Coding">
