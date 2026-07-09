@@ -20,6 +20,13 @@
 </div>
 
 
+## 👩‍💻 About Me
+
+I am a Frontend Developer passionate about building modern and responsive web applications.
+I specialize in React, Next.js, JavaScript, and Tailwind CSS.
+I enjoy learning new technologies and improving my problem-solving skills.
+My goal is to create clean, scalable, and user-friendly digital experiences.
+
 
 ## 🎯 Current Focus
 
