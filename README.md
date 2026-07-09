@@ -21,14 +21,13 @@
 
 
 
-
 ## 🎯 Current Focus
 
-- 🔭 Working on: **[Current Project - e.g., A new e-commerce platform using Next.js]** <!-- TODO: Add your current main project -->
-- 🌱 Learning: **[Technology/Skill - e.g., Advanced State Management Patterns in React]** <!-- TODO: Add what you're currently learning -->
-- 👯 Looking to collaborate on: **Open Source Frontend Projects**
-- 💬 Ask me about: **React, Next.js, TypeScript, UI/UX best practices, and responsive web design** <!-- TODO: Add your areas of expertise -->
-- ⚡ Fun fact: **[Interesting fact about you - e.g., I love exploring historical sites in Venice!]** <!-- TODO: Add a fun fact -->
+- 🔭 Working on: Building modern web applications using Next.js and React
+- 🌱 Learning: Advanced React patterns, Next.js, and backend development
+- 👯 Looking to collaborate on: Frontend and Open Source Projects
+- 💬 Ask me about: React, Next.js, JavaScript, Tailwind CSS
+- ⚡ Fun fact: I enjoy creating clean and user-friendly interfaces
 
 ## 🛠️ Technology Ecosystem
 
